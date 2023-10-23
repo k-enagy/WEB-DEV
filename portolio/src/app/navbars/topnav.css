@@ -1,0 +1,14 @@
+
+
+@media (max-width: 360px) {
+
+    .nav {
+    font-weight: 900;
+    font-size: 1.6em;
+    font-family: 'Lucida Sans';
+    background-color: blue;
+    
+    
+} 
+    /* Styles for screens with a maximum width of 768 pixels or less */
+  }

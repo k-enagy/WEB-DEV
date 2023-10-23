@@ -1,0 +1,125 @@
+@media (max-width: 450px) {
+
+    .pag1 {
+    font-family: 'Lucida Sans';
+    background-color: blue;
+    width: 80%;
+    /* height: 85%; */
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    }
+
+    .pagi2 {
+        margin-right: 26rem!important;
+        width: 50%!important;
+        margin-left: 0rem!important;
+        padding-top: 0!important;
+        height: 80%!important;
+        padding-bottom: 0!important;
+    }
+    
+    .pag2 {
+        background-color: aquamarine;
+        margin-left: -0.6rem!important;
+        width: 53%!important;
+        height: 60%;
+        padding: 5px!important;
+        height: 50%!important;
+        text-align: center;
+    }
+    .witf {
+        width: 248%;
+    }
+    .dimage {
+       max-width: 100%;
+       max-height: 80%;
+       padding-top: 0px;
+    }
+    .serv {
+        margin-left: 6rem!important;
+        font-size: 2.3rem!important;
+        margin-top: 0!important;
+    }
+    .servi{
+        margin-right: -1rem!important;
+    margin-left: 0!important;
+    padding-left: 1px!important;
+    }
+    .serv2 {
+        margin-right: -0.7rem!important;
+        margin-left: -1px!important;
+        padding-left: 5px!important;
+    }
+    .gdi{
+        width: 44%;
+    }
+    .gd2{
+        width: 96%!important;
+    }
+    .colu{
+        width: 96%!important;
+    }
+    .col2{
+        padding-left: 35px!important;
+    }
+    .col3 {
+        width: 100%!important;
+    }
+    .hovn {
+        width: 60%!important;
+        margin-top: 1rem;
+    }
+    .jol{
+        width: 66%!important;
+    }
+    .con{
+        margin: 2rem 10rem 0 -1rem!important;
+    background-color: #91a4a361;
+    padding-bottom: 1rem!important;
+    border-radius: 0px!important;
+    padding-right: 3rem!important;
+    }
+    .hold{
+        max-width: 59%!important;
+    }
+    .hold1{
+        font-weight: bolder;
+    font-family: Trebuchet MS;
+    font-size: 2rem!important;
+    color: #08082bf0;
+    padding: 2rem!important;
+    }
+    .hold3{
+        padding: 1rem!important;
+        margin-top: 0!important;
+    }
+    .last{
+        margin-left: -14rem!important;
+    }
+    .porti{
+        max-width: 41.3%!important;
+    }
+    .porti2{
+        width: 100%!important;
+        margin-top: 1rem!important;
+    }
+    .porti3 {
+        margin-left: 4rem!important;
+        margin-bottom: 0!important;
+        margin-right: 2rem!important;
+    }
+    .porti4 {
+        margin-left: 8rem!important;
+    margin-right: 0!important;
+    margin-bottom: -6rem!important;
+    line-height: 2rem!important;
+    font-size: 2rem;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    color: #1d1d52d4;
+    }
+    .dlast {
+        padding-top: 1rem;
+        padding-bottom: 2rem!important;
+    }
+} 
