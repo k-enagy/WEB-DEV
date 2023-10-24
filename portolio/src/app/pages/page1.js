@@ -126,10 +126,12 @@ const Ipage = ()=>{
       </Grid.Row>
     </Grid>
     :null}
+{witf ?
      <Segment className={ego.serv} basic style={ {marginLeft:"40rem", 
        fontSize:"4rem", fontFamily:"oppins,sans-serif",
         fontWeight:"bolder", color:"#646974", textDecoration:"underline"}}
        >my services</Segment>
+         :null}
       </>
     )
 }
