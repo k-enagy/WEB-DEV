@@ -118,6 +118,34 @@ import Link from 'next/link'
   </Grid>
 
 
+{witf ?
+<Grid>
+  <GridRow>
+    <GridColumn>
+    <Segment className={ego.porti3} style={{fontSize:"3rem", 
+         fontWeight:"bold", fontFamily:"Trebuchet MS", color:"#646974", 
+         textDecoration:"underline", marginLeft:"29rem"}} basic>Recent works</Segment>
+   
+      <Link href='https://6512b82326684b007f0be068--startling-croissant-3eff8c.netlify.app/'>
+        <Segment  ><Image src={grava} /></Segment>
+        </Link>
+
+        <Link href='https://ezunu.onrender.com/'>
+        <Segment basic><Image src={ezunu}></Image></Segment>
+        </Link>
+        
+        <Link href=''>
+        <Segment basic><Image src={vido}></Image></Segment>
+        </Link>
+           
+        <Link href="https://vybex.netlify.app/">
+        <Segment basic><Image src={music}></Image></Segment>
+        </Link>
+        </GridColumn>
+  </GridRow>
+</Grid> :null}
+    
+
   <Grid id="meth" style={ witf ? {marginTop:"50px", display:"none"} : null} >
       
       <Grid.Column  className={ego.col3} width={7}>
