@@ -51,6 +51,7 @@ export default function RootLayout({ children }) {
           textAlign: 'center',
           borderRadius:"10px"
         }}
+    className={EGO.hik}
       >
         Scroll to top
       </button>
