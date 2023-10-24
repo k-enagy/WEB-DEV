@@ -140,8 +140,8 @@ const gandi2 = props.colk
        
        
         { witf ?
-        <Grid>
-        <Segment basic floated='right' style={{padding: '19px 1px 13px 15px', backgroundColor:"#88889138",width: "41%", border:"none"}}>
+        <Grid style={{width:"auto"}}>
+        <Segment basic floated='right' style={{padding: '19px 1px 13px 15px', backgroundColor:"#88889138",width: "100%", border:"none"}}>
           <Menu fluid vertical tabular style={{height:"100%"}}>
 
           <Menu.Item
