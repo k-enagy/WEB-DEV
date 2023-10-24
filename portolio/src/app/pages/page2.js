@@ -127,7 +127,7 @@ import Link from 'next/link'
          textDecoration:"underline", marginLeft:"29rem"}} basic>Recent works</Segment>
    
       <Link href='https://6512b82326684b007f0be068--startling-croissant-3eff8c.netlify.app/'>
-        <Segment  ><Image src={grava} /></Segment>
+        <Segment basic ><Image src={grava} /></Segment>
         </Link>
 
         <Link href='https://ezunu.onrender.com/'>
