@@ -82,7 +82,7 @@ const Ipage = ()=>{
       </Segment>
 
       {witf ? 
-      <Grid  style={{width: '44%',
+      <Grid  style={{
     textAlign: 'center',
     marginTop: '1.5rem'}}>
         <GridRow>
