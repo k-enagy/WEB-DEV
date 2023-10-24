@@ -86,7 +86,7 @@ import Link from 'next/link'
     return(
         <>
         <Container id="port">
-          <Grid style={{marginTop:"50px"}} className={ego.porti}>
+          <Grid style={witf ? {marginTop:"50px", display:none}:null} className={ego.porti}>
          <Segment className={ego.porti3} style={{fontSize:"3rem", 
          fontWeight:"bold", fontFamily:"Trebuchet MS", color:"#646974", 
          textDecoration:"underline", marginLeft:"29rem"}} basic>Recent works</Segment>
