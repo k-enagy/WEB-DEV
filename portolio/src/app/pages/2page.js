@@ -76,7 +76,7 @@ ETHICAL HACKING</Segment>
       
      <Segment basic className={ego.col2}>
      <Segment floated='right' basic compact style={{fontSize:"2rem",
-    fontFamily:"Trebuchet MS", fontWeight:"bold", color:"#1d1d52d4"}} className={ego.serv2}> GRAPIC DESIGN
+    fontFamily:"Trebuchet MS", fontWeight:"bold", color:"#1d1d52d4"}} className={ego.serv2}> GRAPHIC DESIGN
     </Segment> 
     <Segment compact raised ><Icon name='gg' color='green' size='big'/></Segment>
          <div style={{paddingTop:"2rem", fontWeight:"bolder",fontSize:"1.3rem",color:"#08082bf0"}}>
@@ -148,7 +148,7 @@ ETHICAL HACKING</Segment>
 
   <Segment basic className={ego.col2}>
      <Segment floated='right' basic compact style={{fontSize:"2rem",
-    fontFamily:"Trebuchet MS", fontWeight:"bold", color:"#1d1d52d4"}} className={ego.serv2}> GRAPIC DESIGN
+    fontFamily:"Trebuchet MS", fontWeight:"bold", color:"#1d1d52d4"}} className={ego.serv2}> GRAPHIC DESIGN
     </Segment> 
     <Segment compact raised ><Icon name='gg' color='green' size='big'/></Segment>
          <div style={{paddingTop:"2rem", fontWeight:"bolder",fontSize:"1.3rem",color:"#08082bf0"}}>
