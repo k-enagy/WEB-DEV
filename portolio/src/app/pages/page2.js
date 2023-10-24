@@ -241,7 +241,7 @@ import Link from 'next/link'
 
  { witf ?
 
-  <Grid style={{width:"43.5%"}}>
+  <Grid >
     <GridRow>
       <GridColumn>
       <Segment basic className='animate-jumpLeft px-400 
