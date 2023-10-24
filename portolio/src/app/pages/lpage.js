@@ -23,7 +23,7 @@ import {
   const Lpage = ()=> {
   
     function mail () {
-        window.open('mailto:uchekojo@gmail.com?subject=Contract Proposal =Your%20Email%20Body')
+        window.open('mailto:uchekojo@gmail.com?subject=Contract email')
     }
 
 
