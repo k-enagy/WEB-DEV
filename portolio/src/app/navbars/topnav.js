@@ -155,6 +155,7 @@ const gandi2 = props.colk
               
               { dcon ?
              <Segment basic className='animate-fadeIn' style={{marginTop:"0"}}>
+            <Link href='#ol'>
             <Menu.Item
              style={{height:"3.0rem", fontSize:"1.5rem", transition:"ease-in-out 1s"}} 
              
@@ -164,7 +165,9 @@ const gandi2 = props.colk
           ease-in-out hover:scale-110"
             >
               Contact</Menu.Item>
+              </Link>
               <Divider/>
+            <Link href='#serv'>
             <Menu.Item
               style={{height:"3.0rem", fontSize:"1.5rem", transition:"ease-in-out 1s"}} 
               className="text-2xl font-medium leading-tight
@@ -172,7 +175,9 @@ const gandi2 = props.colk
           ease-in-out hover:scale-110"
               > Services
                 </Menu.Item>
+                </Link>
                 <Divider/>
+           <Link href='port'>
             <Menu.Item
               
               style={{height:"3.0rem", fontSize:"1.5rem", transition:"ease-in-out 1s"}} 
@@ -181,7 +186,9 @@ const gandi2 = props.colk
           ease-in-out hover:scale-110"
             > Portfolio
               </Menu.Item>
+              </Link>
               <Divider/>
+            <Link href='#meth'>
             <Menu.Item
               name='links'
               style={{height:"3.9rem", fontSize:"1.5rem", transition:"ease-in-out 1s"}} 
@@ -190,6 +197,7 @@ const gandi2 = props.colk
           ease-in-out hover:scale-110"
             > Methodology
               </Menu.Item>
+              </Link>
                 </Segment> 
                       :null}      
           </Menu>
