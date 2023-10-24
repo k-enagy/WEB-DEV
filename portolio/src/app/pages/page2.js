@@ -85,8 +85,8 @@ import Link from 'next/link'
 
     return(
         <>
-        <Container id="port">
-          <Grid style={witf ? {marginTop:"50px", display:"none"}:null} className={ego.porti}>
+        <Container >
+          <Grid style={witf ? {marginTop:"50px", display:"none"}:null} className={ego.porti} id="port">
          <Segment className={ego.porti3} style={{fontSize:"3rem", 
          fontWeight:"bold", fontFamily:"Trebuchet MS", color:"#646974", 
          textDecoration:"underline", marginLeft:"29rem"}} basic>Recent works</Segment>
@@ -119,7 +119,7 @@ import Link from 'next/link'
 
 
 {witf ?
-<Grid>
+<Grid id="port">
   <GridRow>
     <GridColumn>
     <Segment className={ego.porti3} style={{fontSize:"3rem", 
@@ -241,7 +241,7 @@ import Link from 'next/link'
 
  { witf ?
 
-  <Grid >
+  <Grid id="meth">
     <GridRow>
       <GridColumn>
       <Segment basic className='animate-jumpLeft px-400 
