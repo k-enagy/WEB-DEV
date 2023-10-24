@@ -112,7 +112,7 @@ who can transform your vision into captivating visuals,
      </Grid>
 
       { witf ?
-   <Grid style={{width:"44%"}}>
+   <Grid >
     <Grid.Row>
       <Grid.Column>
       <Segment raised>
