@@ -72,7 +72,7 @@ import Link from 'next/link'
    
          
 
-    console.log(offset);
+    
     
     useEffect(()=>{
       const mq = window.matchMedia( "(max-width: 500px)" );
